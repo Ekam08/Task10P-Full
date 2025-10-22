@@ -1,0 +1,42 @@
+.subscribe-bar {
+  background-color: #ddd;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.subscribe-bar form {
+  display: flex;
+  gap: 10px;
+}
+
+.subscribe-message {
+  text-align: center;
+  color: green;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: lightblue;
+  color: black;
+  padding: 10px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.socials {
+  display: flex;
+  gap: 15px;
+  font-size: 30px;
+}
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid black;
+  padding-top: 10px;
+}

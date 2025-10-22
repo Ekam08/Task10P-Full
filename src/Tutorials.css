@@ -1,0 +1,26 @@
+.tutorials {
+  padding: 20px;
+  text-align: center;
+}
+
+.tutorial-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.tutorial-card {
+  width: 220px;
+  border: 1px solid #ccc;
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.tutorial-card img {
+  width: 100%;
+  height: 140px;
+  border-radius: 6px;
+  object-fit: cover;
+}
